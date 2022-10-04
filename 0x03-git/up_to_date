@@ -1,2 +1,2 @@
-git pull
-git clone
+#!/bin/bash
+echo "git pull"
